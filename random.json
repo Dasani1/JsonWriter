@@ -1,0 +1,386 @@
+[
+  {
+    "value": 2,
+    "Time": 1
+  },
+  {
+    "value": 23,
+    "Time": 2
+  },
+  {
+    "value": 21,
+    "Time": 3
+  },
+  {
+    "value": 24,
+    "Time": 4
+  },
+  {
+    "value": 19,
+    "Time": 5
+  },
+  {
+    "value": 9,
+    "Time": 6
+  },
+  {
+    "value": 14,
+    "Time": 7
+  },
+  {
+    "value": 22,
+    "Time": 8
+  },
+  {
+    "value": 20,
+    "Time": 9
+  },
+  {
+    "value": 25,
+    "Time": 10
+  },
+  {
+    "value": 10,
+    "Time": 11
+  },
+  {
+    "value": 4,
+    "Time": 12
+  },
+  {
+    "value": 10,
+    "Time": 13
+  },
+  {
+    "value": 88,
+    "Time": 14
+  },
+  {
+    "value": 78,
+    "Time": 15
+  },
+  {
+    "value": 87,
+    "Time": 16
+  },
+  {
+    "value": 97,
+    "Time": 17
+  },
+  {
+    "value": 76,
+    "Time": 18
+  },
+  {
+    "value": 82,
+    "Time": 19
+  },
+  {
+    "value": 100,
+    "Time": 20
+  },
+  {
+    "value": 95,
+    "Time": 21
+  },
+  {
+    "value": 99,
+    "Time": 22
+  },
+  {
+    "value": 84,
+    "Time": 23
+  },
+  {
+    "value": 89,
+    "Time": 24
+  },
+  {
+    "value": 7,
+    "Time": 25
+  },
+  {
+    "value": 14,
+    "Time": 26
+  },
+  {
+    "value": 8,
+    "Time": 27
+  },
+  {
+    "value": 17,
+    "Time": 28
+  },
+  {
+    "value": 11,
+    "Time": 29
+  },
+  {
+    "value": 24,
+    "Time": 30
+  },
+  {
+    "value": 18,
+    "Time": 31
+  },
+  {
+    "value": 21,
+    "Time": 32
+  },
+  {
+    "value": 20,
+    "Time": 33
+  },
+  {
+    "value": 15,
+    "Time": 34
+  },
+  {
+    "value": 4,
+    "Time": 35
+  },
+  {
+    "value": 2,
+    "Time": 36
+  },
+  {
+    "value": 22,
+    "Time": 37
+  },
+  {
+    "value": 81,
+    "Time": 38
+  },
+  {
+    "value": 100,
+    "Time": 39
+  },
+  {
+    "value": 100,
+    "Time": 40
+  },
+  {
+    "value": 80,
+    "Time": 41
+  },
+  {
+    "value": 88,
+    "Time": 42
+  },
+  {
+    "value": 92,
+    "Time": 43
+  },
+  {
+    "value": 81,
+    "Time": 44
+  },
+  {
+    "value": 92,
+    "Time": 45
+  },
+  {
+    "value": 81,
+    "Time": 46
+  },
+  {
+    "value": 81,
+    "Time": 47
+  },
+  {
+    "value": 86,
+    "Time": 48
+  },
+  {
+    "value": 12,
+    "Time": 49
+  },
+  {
+    "value": 12,
+    "Time": 50
+  },
+  {
+    "value": 9,
+    "Time": 51
+  },
+  {
+    "value": 25,
+    "Time": 52
+  },
+  {
+    "value": 19,
+    "Time": 53
+  },
+  {
+    "value": 14,
+    "Time": 54
+  },
+  {
+    "value": 13,
+    "Time": 55
+  },
+  {
+    "value": 4,
+    "Time": 56
+  },
+  {
+    "value": 12,
+    "Time": 57
+  },
+  {
+    "value": 19,
+    "Time": 58
+  },
+  {
+    "value": 7,
+    "Time": 59
+  },
+  {
+    "value": 20,
+    "Time": 60
+  },
+  {
+    "value": 22,
+    "Time": 61
+  },
+  {
+    "value": 90,
+    "Time": 62
+  },
+  {
+    "value": 98,
+    "Time": 63
+  },
+  {
+    "value": 91,
+    "Time": 64
+  },
+  {
+    "value": 77,
+    "Time": 65
+  },
+  {
+    "value": 89,
+    "Time": 66
+  },
+  {
+    "value": 85,
+    "Time": 67
+  },
+  {
+    "value": 89,
+    "Time": 68
+  },
+  {
+    "value": 100,
+    "Time": 69
+  },
+  {
+    "value": 85,
+    "Time": 70
+  },
+  {
+    "value": 78,
+    "Time": 71
+  },
+  {
+    "value": 87,
+    "Time": 72
+  },
+  {
+    "value": 18,
+    "Time": 73
+  },
+  {
+    "value": 1,
+    "Time": 74
+  },
+  {
+    "value": 22,
+    "Time": 75
+  },
+  {
+    "value": 15,
+    "Time": 76
+  },
+  {
+    "value": 4,
+    "Time": 77
+  },
+  {
+    "value": 16,
+    "Time": 78
+  },
+  {
+    "value": 11,
+    "Time": 79
+  },
+  {
+    "value": 8,
+    "Time": 80
+  },
+  {
+    "value": 10,
+    "Time": 81
+  },
+  {
+    "value": 4,
+    "Time": 82
+  },
+  {
+    "value": 4,
+    "Time": 83
+  },
+  {
+    "value": 19,
+    "Time": 84
+  },
+  {
+    "value": 5,
+    "Time": 85
+  },
+  {
+    "value": 97,
+    "Time": 86
+  },
+  {
+    "value": 78,
+    "Time": 87
+  },
+  {
+    "value": 97,
+    "Time": 88
+  },
+  {
+    "value": 82,
+    "Time": 89
+  },
+  {
+    "value": 84,
+    "Time": 90
+  },
+  {
+    "value": 80,
+    "Time": 91
+  },
+  {
+    "value": 84,
+    "Time": 92
+  },
+  {
+    "value": 75,
+    "Time": 93
+  },
+  {
+    "value": 84,
+    "Time": 94
+  },
+  {
+    "value": 87,
+    "Time": 95
+  },
+  {
+    "value": 94,
+    "Time": 96
+  }
+]
