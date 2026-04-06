@@ -5,7 +5,7 @@ import random
 
 time = 0
 data = []
-n = 4
+n = 50
 
 for i in range(24*n):
     if i % 24 <= 12 and not 0: #1,2,3,4...24 also night and day
@@ -14,7 +14,7 @@ for i in range(24*n):
         num = random.randint(75,100)
     time += 1
     light = {
-    "value": num,
+    "lux": num,
     "Time": time
     }
     data.append(light)
